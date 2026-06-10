@@ -5,7 +5,7 @@ https://cloud.flowiseai.com/chatbot/ce199c1b-c69e-4c08-bb47-28c3668db316
 
 ## Tech Stack
 - Platform: Flowise Cloud
-- LLM: ChatGroq llama3-70b-8192
+- LLM: ChatGroq openai/gpt-oss-20b
 - Embeddings: HuggingFace sentence-transformers/all-MiniLM-L6-v2
 - Vector Store: Supabase (pgvector, 384 dimensions)
 
