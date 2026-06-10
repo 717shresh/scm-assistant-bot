@@ -71,33 +71,60 @@ Thus, every Tier‑3 supplier listed above requires a Level 3 Activate respons
 ---
 
 **Q2: Which suppliers qualify for the annual Volume Rebate
-Program and how many are there?**
-
 Suppliers qualifying for the Annual Volume Rebate Program
 
-Supplier name	Supplier ID	Annual Volume Units
+Supplier name	Supplier ID	Annual volume units
 IndoTech Fab Ltd	SUP‑013	1,846,780
-Total number of qualifying suppliers: 1
+Number of qualifying suppliers: 1
+
+Source: Document 12 lists the annual volume units for IndoTech Fab Ltd, meeting the program’s volume threshold.
 
 ---
 
 **Q3: Which region has the highest total PO value, and does
 it breach the concentration limit?**
 
-Region with the highest total PO value: APAC
-Total PO value (APAC): $2,302,132.79
-Total spend across all suppliers: $3,191,500.26
-APAC share of total spend: ≈ 72.2 %
-Concentration‑limit assessment (Policy §6):
-The concentration limit is 30 % of total spend.
-Since APAC’s share (≈ 72 %) exceeds 30 %, the concentration limit is breached.
+Region with the highest total PO value
 
+Region	Total PO value (USD)
+APAC	$249,633.33
+Concentration‑limit assessment
+
+Total spend across all suppliers: $283,888.25
+APAC share of total spend: 249,633.33 ÷ 283,888.25 ≈ 87.96 %
+Policy concentration limit (Policy §6): 30 % of total spend
+Because APAC’s share (~88 %) far exceeds the 30 % threshold, the concentration limit is breached.
 ---
 
 **Q4: Which suppliers are on Supplier Watch List (SWL) status
 and what does it restrict?**
 
-I could not find that information.
+Supplier Watch List (SWL) – Suppliers with a compliance score below 60
+
+Supplier name
+Archipelago PCB Corp
+Bogota Pack Ltda
+Bohai Electronics
+Buenos Aires Pack
+Cerromax Mineria
+DaNang Metal Works
+Deccan Polymer Mfg
+Deltaforge Vietnam
+Dravex Components India
+Helios Pack Greece
+Lima Polymer SA
+Longhua Polymer Works
+Maghreb Castworks
+MeKong Pack Co
+Orinoco Pack SAPI
+Patagonia Alloys SRL
+Plataforma Metales SA
+Quetzal Textiles
+Sahyadri Alloy Tech
+Sibertek Molding
+Varna Electronics EAD
+Restriction imposed on SWL suppliers
+According to Policy Section 3.4 (Supplier Watch List), a supplier that is on the SWL is restricted from issuing new purchase orders (POs) for more than 20 % of its volume from the prior quarter. This limitation is applied until the supplier’s compliance score improves above the threshold.
 
 ---
 
@@ -105,9 +132,16 @@ I could not find that information.
 rate and does it exceed the Tier-2 limit?**
 
 Product category with the highest average defect rate
-Metal Components – 0.15 %
-Does it exceed the Tier‑2 limit?
-I could not find that information.
+
+Product category	Average defect rate (rounded to two decimals)
+Mechanical Components	2.04 %
+Calculation:
+Mechanical Components defect rates from the records: 0.62 %, 2.63 %, 1.59 %, 1.04 %, 2.59 %, 2.43 %, 3.35 % (doc 0, 1, 2, 3, 5, 6, 10).
+Sum = 14.25 %; average = 14.25 % ÷ 7 ≈ 2.04 %【0】【1】【2】【3】【5】【6】【10】.
+
+Does it exceed the Tier‑2 defect‑rate limit?
+No. The Tier‑2 maximum defect rate allowed is 1.0 % – 2.5 % (Policy §4, Tier‑2 limits)【4】.
+The Mechanical Components average of 2.04 % is below the 2.5 % upper bound.
 
 ---
 
