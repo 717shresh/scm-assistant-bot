@@ -1,0 +1,123 @@
+Q1: TIER-3 SUPPLIERS WITH ACTIVE DISRUPTION FLAG AND POLICY RESPONSE LEVEL
+Total: 24 Tier-3 High Risk suppliers with active disruption flags.
+Supplier list:
+- Archipelago PCB Corp | Disruption: Labour strike risk
+- Bogota Pack Ltda | Disruption: Labour strike risk
+- Bohai Electronics | Disruption: Typhoon season disruption
+- Buenos Aires Pack | Disruption: Audit overdue; compliance review
+- Cerromax Mineria | Disruption: Audit overdue; compliance review
+- DaNang Metal Works | Disruption: Typhoon season disruption
+- Deccan Polymer Mfg | Disruption: Currency volatility flag
+- Deltaforge Vietnam | Disruption: Labour strike risk
+- Dravex Components India | Disruption: Typhoon season disruption
+- Helios Pack Greece | Disruption: Labour strike risk
+- Lima Polymer SA | Disruption: Audit overdue; compliance review
+- Longhua Polymer Works | Disruption: Labour strike risk
+- Maghreb Castworks | Disruption: Regulatory enforcement pending
+- MeKong Pack Co | Disruption: Typhoon season disruption
+- Orinoco Pack SAPI | Disruption: Audit overdue; compliance review
+- Patagonia Alloys SRL | Disruption: Labour strike risk
+- Plataforma Metales SA | Disruption: Export license risk
+- Quetzal Textiles | Disruption: Audit overdue; compliance review
+- Sahyadri Alloy Tech | Disruption: Export license risk
+- Sibertek Molding | Disruption: Port closure risk
+- Varna Electronics EAD | Disruption: Political instability flag
+- Visayas Textile Co | Disruption: Regulatory enforcement pending
+- Vistula Pack Sp | Disruption: Regulatory enforcement pending
+- Yucatan Polymer Mfg | Disruption: Port closure risk
+
+Per Policy Section 9 all High Risk suppliers with any active disruption
+flag require Level 3 Activate response which means:
+- Immediate escalation to CPO
+- Alternate supplier activated at minimum 40 percent of volume within 10 business days
+- Safety stock adjusted upward by 50 percent
+- Full Root Cause Analysis required within 15 business days
+
+Q2: VOLUME REBATE QUALIFIED SUPPLIERS
+Per Policy Section 4.2 qualifying criteria:
+Contract Tier must be Tier-1 AND OTD Rate 93 percent or above
+AND Defect Rate below 0.5 percent AND Sustainability Score 85 or above.
+Total qualifying suppliers: 25
+Supplier list:
+- Berliner Pack GmbH
+- BlueMesa Polymers
+- Borealis Composites
+- Broken Hill Alloys
+- Cascade Pack Corp
+- Crestline Chemical Supply
+- Fjord Polymer AS
+- Formosa Circuit Co
+- Hokkaido Alloy Tech
+- Huabei Circuit Systems
+- Kinki Precision Corp
+- Kyushu Textile Co
+- Maplewood Polymer Corp
+- Munich Alloy Technik
+- Nordloom Finland Oy
+- Norrsken Textiles AB
+- Orrentek Precision Mfg
+- Osaka Polymer Systems
+- Ostwind Composites AG
+- PrecisionForge Taiyuan
+- Rheinwerk Precision AG
+- Ridgecroft Textiles
+- Sendai Mech Works
+- Solveig Eco Packaging
+- Straits Packaging Hub
+
+Q3: REGIONAL PO VALUE CONCENTRATION
+Total network PO value: $356,045,248.18
+Breakdown by region:
+- APAC: $131,620,356.14 (37.0%) — within the 45 percent limit
+- EMEA: $94,122,434.32 (26.4%) — within the 45 percent limit
+- LATAM: $83,971,664.94 (23.6%) — within the 45 percent limit
+
+Highest region: APAC at $131,620,356.14 (37.0% of total spend).
+APAC at 37.0% is within the 45 percent concentration limit.
+Per Policy Section 5.3 no breach — no Diversification Plan required.
+
+Q4: SUPPLIER WATCH LIST STATUS
+Criteria: Compliance Score below 60.
+Per Policy Section 3.4 SWL status restricts new PO issuance
+to 20 percent of prior quarter volume.
+Total unique SWL suppliers: 24
+Supplier list:
+- Archipelago PCB Corp (Compliance Score: 53)
+- Bogota Pack Ltda (Compliance Score: 52)
+- Bohai Electronics (Compliance Score: 59)
+- Buenos Aires Pack (Compliance Score: 54)
+- Cerromax Mineria (Compliance Score: 53)
+- DaNang Metal Works (Compliance Score: 54)
+- Deccan Polymer Mfg (Compliance Score: 57)
+- Deltaforge Vietnam (Compliance Score: 58)
+- Dravex Components India (Compliance Score: 55)
+- Helios Pack Greece (Compliance Score: 59)
+- Lima Polymer SA (Compliance Score: 52)
+- Longhua Polymer Works (Compliance Score: 52)
+- Maghreb Castworks (Compliance Score: 53)
+- MeKong Pack Co (Compliance Score: 52)
+- Orinoco Pack SAPI (Compliance Score: 56)
+- Patagonia Alloys SRL (Compliance Score: 51)
+- Plataforma Metales SA (Compliance Score: 56)
+- Quetzal Textiles (Compliance Score: 53)
+- Sahyadri Alloy Tech (Compliance Score: 52)
+- Sibertek Molding (Compliance Score: 53)
+- Varna Electronics EAD (Compliance Score: 58)
+- Visayas Textile Co (Compliance Score: 56)
+- Vistula Pack Sp (Compliance Score: 55)
+- Yucatan Polymer Mfg (Compliance Score: 53)
+
+Q5: PRODUCT CATEGORY DEFECT RATES
+Average defect rate by product category:
+- Packaging Materials: 1.91% average across 429 POs — within Tier-2 limit
+- Mechanical Components: 1.89% average across 329 POs — within Tier-2 limit
+- Raw Materials: 1.71% average across 360 POs — within Tier-2 limit
+- Industrial Textiles: 1.71% average across 275 POs — within Tier-2 limit
+- Specialty Alloys: 1.61% average across 327 POs — within Tier-2 limit
+- Electronic Components: 1.59% average across 280 POs — within Tier-2 limit
+
+Highest defect category: Packaging Materials
+Average defect rate: 1.91% across 429 POs.
+Per Policy Section 3.2 the Tier-2 maximum defect ceiling is 2.50 percent.
+Packaging Materials at 1.91% is below the Tier-2 ceiling of 2.50 percent — no breach.
+However it is approaching the limit and requires monitoring.
